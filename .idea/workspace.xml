@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="42b2af29-4fe3-471c-b184-006fb21062fd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efi/Freedom_Index/management/commands/create_initial_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/efi/Freedom_Index/management/commands/create_initial_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efi/Freedom_Index/templates/EcoFreeInd/freedom_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/efi/Freedom_Index/templates/Freedom_Index/freedom_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efi/Freedom_Index/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/efi/Freedom_Index/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efi/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/efi/Freedom_Index/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efi/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/efi/api/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efi/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/efi/api/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/efi/efi_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/efi/efi_project/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +24,7 @@
         <counts>
           <entry key="gitignore" value="2" />
           <entry key="html" value="3" />
-          <entry key="py" value="48" />
+          <entry key="py" value="49" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -38,14 +32,14 @@
         <counts>
           <entry key="HTML" value="3" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="48" />
+          <entry key="Python" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="29" />
           <entry key="html" value="219" />
-          <entry key="py" value="2628" />
+          <entry key="py" value="2714" />
           <entry key="txt" value="47" />
         </counts>
       </usages-collector>
@@ -53,7 +47,7 @@
         <counts>
           <entry key="HTML" value="219" />
           <entry key="PLAIN_TEXT" value="76" />
-          <entry key="Python" value="2628" />
+          <entry key="Python" value="2714" />
         </counts>
       </usages-collector>
     </session>
@@ -72,10 +66,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/efi/efi_project/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
+            <state relative-caret-position="253">
               <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="38" />
             </state>
           </provider>
@@ -94,11 +88,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/efi/efi_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+            <state relative-caret-position="151">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/efi/efi_project/local_settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -204,10 +207,11 @@
         <option value="$PROJECT_DIR$/efi/api/__init__.py" />
         <option value="$PROJECT_DIR$/efi/Freedom_Index/views.py" />
         <option value="$PROJECT_DIR$/efi/Freedom_Index/management/commands/create_initial_data.py" />
-        <option value="$PROJECT_DIR$/efi/efi_project/settings.py" />
         <option value="$PROJECT_DIR$/efi/api/urls.py" />
         <option value="$PROJECT_DIR$/efi/api/views.py" />
         <option value="$PROJECT_DIR$/efi/efi_project/urls.py" />
+        <option value="$PROJECT_DIR$/efi/efi_project/local_settings.py" />
+        <option value="$PROJECT_DIR$/efi/efi_project/settings.py" />
       </list>
     </option>
   </component>
@@ -384,7 +388,7 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -395,7 +399,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3276923" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3276923" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -478,13 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/efi/efi_project/local_settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/efi/Notes/notes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -556,34 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/efi/Freedom_Index/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/efi/Freedom_Index/management/commands/create_initial_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <marker date="1553787551565" expanded="true" signature="214:219" ph="..." />
-            <marker date="1553787551565" expanded="true" signature="2675:4295" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/efi/efi_project/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/efi/api/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -601,10 +570,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/efi/Freedom_Index/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/efi/efi_project/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
+        <state relative-caret-position="253">
           <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/efi/Freedom_Index/management/commands/create_initial_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <marker date="1553787551565" expanded="true" signature="214:219" ph="..." />
+            <marker date="1553787551565" expanded="true" signature="2675:4295" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/efi/efi_project/local_settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/efi/efi_project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
