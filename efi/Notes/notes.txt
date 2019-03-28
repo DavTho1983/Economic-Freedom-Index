@@ -1,0 +1,8 @@
+uname: david
+pword: admin
+
+git reset HEAD^ --hard
+git update-ref -d HEAD
+git add .
+git commit -m""
+git push -u origin master --force

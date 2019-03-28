@@ -1,0 +1,10 @@
+<h1>The Economic Freedom Index</h1>
+
+{% for freedom in object_list %}
+    <ul>
+        <li>Country ID: {{freedom.countryid}}</li>
+        <li>Country Name: {{freedom.country_name}}</li>
+        <li>World Region: {{freedom.region}}</li>
+        <li>World EFI Rank: {{freedom.world_rank}}</li>
+    </ul>
+{% endfor %}
