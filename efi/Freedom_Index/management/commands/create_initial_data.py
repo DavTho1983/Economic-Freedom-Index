@@ -5,7 +5,7 @@ import numpy as np
 from django.core.management import BaseCommand
 
 
-from EcoFreeInd.models import Freedom
+from Freedom_Index.models import Freedom
 from django.conf import settings
 class PandasOperations():
 

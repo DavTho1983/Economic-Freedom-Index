@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from Freedom_Index.models import Freedom
+from .models import Freedom
 
 
 class FreedomSerializer(serializers.ModelSerializer):
